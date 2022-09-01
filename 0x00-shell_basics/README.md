@@ -7,3 +7,4 @@ SCRIPT WRITING
 #5-Display current directory contents in long format with user and group IDs displayed numerically And hidden files
 #6-creates a directory in the tmp folder
 #7-moves a file to a new directory
+#8-deletes a file from a directory`
