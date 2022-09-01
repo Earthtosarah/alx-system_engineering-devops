@@ -4,4 +4,5 @@ SCRIPT WRITING
 #2-a script that changes the working directory to the user’s home directory.
 #3-Display current directory contents in a long format
 #4-Display all files + hidden files in long format
-#Display current directory contents in long format with user and group IDs displayed numerically And hidden files
+#5-Display current directory contents in long format with user and group IDs displayed numerically And hidden files
+#6-creates a directory in the tmp folder
