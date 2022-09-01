@@ -11,3 +11,4 @@
 ## 9-deletes a directory
 ## 10-moves to the previous directory
 ## 11-lists all files in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
+## a script that prints the type of the file named iamafile
