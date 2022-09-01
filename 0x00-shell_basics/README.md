@@ -1,5 +1,7 @@
-#a script that prints the absolute path name of the current working directory.
-#Display the contents list of your current directory
-#a script that changes the working directory to the user’s home directory.
-#Display current directory contents in a long format
-#Display all files + hidden files in long format
+SCRIPT WRITING
+#0-a script that prints the absolute path name of the current working directory.
+#1-Display the contents list of your current directory
+#2-a script that changes the working directory to the user’s home directory.
+#3-Display current directory contents in a long format
+#4-Display all files + hidden files in long format
+#Display current directory contents in long format with user and group IDs displayed numerically And hidden files
