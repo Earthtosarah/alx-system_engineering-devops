@@ -8,3 +8,4 @@ SCRIPT WRITING
 #6-creates a directory in the tmp folder
 #7-moves a file to a new directory
 #8-deletes a file from a directory`
+#9-deletes a directory
